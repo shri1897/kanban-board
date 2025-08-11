@@ -28,5 +28,125 @@
     "createdAt": "2025-07-07T09:30:00Z",
     "assignee": "carol",
     "tags": ["ui"]
+  },
+  {
+    "id": "4",
+    "title": "Implement user notifications",
+    "status": "Backlog",
+    "priority": "medium",
+    "severity": 2,
+    "createdAt": "2025-07-06T14:15:00Z",
+    "assignee": "alice",
+    "tags": ["notifications", "feature"]
+  },
+  {
+    "id": "5",
+    "title": "Fix mobile responsive layout",
+    "status": "In Progress",
+    "priority": "high",
+    "severity": 3,
+    "createdAt": "2025-07-05T11:20:00Z",
+    "assignee": "dave",
+    "tags": ["mobile", "ui", "bug"]
+  },
+  {
+    "id": "6",
+    "title": "Optimize database queries",
+    "status": "Todo",
+    "priority": "medium",
+    "severity": 2,
+    "createdAt": "2025-07-04T16:45:00Z",
+    "assignee": "bob",
+    "tags": ["performance", "database"]
+  },
+  {
+    "id": "7",
+    "title": "Add export functionality",
+    "status": "Done",
+    "priority": "low",
+    "severity": 1,
+    "createdAt": "2025-07-03T08:30:00Z",
+    "assignee": "eve",
+    "tags": ["export", "feature"]
+  },
+  {
+    "id": "8",
+    "title": "Update documentation",
+    "status": "Todo",
+    "priority": "low",
+    "severity": 1,
+    "createdAt": "2025-07-02T13:10:00Z",
+    "assignee": "carol",
+    "tags": ["documentation"]
+  },
+  {
+    "id": "9",
+    "title": "Security vulnerability in auth",
+    "status": "Backlog",
+    "priority": "critical",
+    "severity": 4,
+    "createdAt": "2025-07-01T09:00:00Z",
+    "assignee": "alice",
+    "tags": ["security", "auth", "critical"]
+  },
+  {
+    "id": "10",
+    "title": "Add search filters",
+    "status": "In Progress",
+    "priority": "medium",
+    "severity": 2,
+    "createdAt": "2025-06-30T15:25:00Z",
+    "assignee": "frank",
+    "tags": ["search", "feature"]
+  },
+  {
+    "id": "11",
+    "title": "Fix memory leak in charts",
+    "status": "Todo",
+    "priority": "high",
+    "severity": 3,
+    "createdAt": "2025-06-29T10:40:00Z",
+    "assignee": "dave",
+    "tags": ["charts", "memory", "bug"]
+  },
+  {
+    "id": "12",
+    "title": "Implement file upload",
+    "status": "Done",
+    "priority": "medium",
+    "severity": 2,
+    "createdAt": "2025-06-28T12:55:00Z",
+    "assignee": "eve",
+    "tags": ["upload", "feature"]
+  },
+  {
+    "id": "13",
+    "title": "Add unit tests for API",
+    "status": "Todo",
+    "priority": "medium",
+    "severity": 2,
+    "createdAt": "2025-06-27T14:20:00Z",
+    "assignee": "bob",
+    "tags": ["testing", "api"]
+  },
+  {
+    "id": "14",
+    "title": "Redesign settings page",
+    "status": "Backlog",
+    "priority": "low",
+    "severity": 1,
+    "createdAt": "2025-06-26T11:15:00Z",
+    "assignee": "carol",
+    "tags": ["ui", "settings"]
+  },
+  {
+    "id": "15",
+    "title": "Fix email validation bug",
+    "status": "In Progress",
+    "priority": "high",
+    "severity": 3,
+    "createdAt": "2025-06-25T16:30:00Z",
+    "assignee": "frank",
+    "tags": ["validation", "email", "bug"]
   }
 ]
